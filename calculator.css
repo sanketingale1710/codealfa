@@ -1,0 +1,33 @@
+#calculator{
+    width: 350px;
+    height: 550px;
+    background-color: rgb(205, 205, 205);
+    margin-left: 34rem;
+    border-radius: 28px;
+}
+#display{
+    width:300px;
+    height: 50px;
+    position: relative;
+    left: 20px;
+    font-size: 40px ;
+}
+#btn{
+    width: 80px;
+    height: 80px;
+    position: relative;
+    top: 30px;
+    left:10px;
+    font-size: 40px;
+}
+#btnc{
+    width: 80px;
+    height: 80px;
+    position: relative;
+    top: 40px;
+    left:100px;
+    font-size: 40px;
+}
+.name{
+    text-align: center;    
+}
